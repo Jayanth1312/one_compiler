@@ -7,12 +7,10 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="entire">
-        <TotalLang />
-        <div className="graph-cards">
-          <LanguageBarGraph />
-          <TopTotal />
-        </div>
+      <TotalLang/>
+      <div className="graph-cards">
+        <LanguageBarGraph />
+        <TopTotal />
       </div>
     </div>
   );
