@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  padding: 40px;
+}
+
+.entire {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.graph-cards {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  margin: 0 auto;
+}

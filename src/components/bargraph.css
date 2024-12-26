@@ -1,0 +1,15 @@
+.language-container {
+  width: 75%;
+  padding: 24px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #c8c8c8;
+  height: calc(100vh - 80px);
+}
+
+.language-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #1f2937;
+  margin-bottom: 24px;
+}
